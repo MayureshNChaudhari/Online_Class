@@ -1,0 +1,77 @@
+.left {
+  padding-left: 52px;
+}
+.right {
+  padding-left: 85px;
+}
+.right1 {
+  padding-left: 76px;
+}
+.right2 {
+  padding-left: 93px;
+}
+.right3 {
+  padding-left: 85px;
+}
+.right4 {
+  padding-left: 106px;
+}
+input[type="checkbox"] {
+  box-shadow: 2px 2px 2px black;}
+input[type="Date"] {
+border-radius: 100px;}
+.imj {
+  width: 1000px;
+  height: 1000px;
+}
+input[type="text"] {
+  border-radius: 100px;
+}
+input[type="email"] {
+  border-radius: 100px;
+}
+input[type="number"] {
+  border-radius: 100px;
+}
+
+hr {
+  height: 2px;
+  background-color: black;
+}
+p {
+  font-size: 20px;
+  font-weight: bold;
+}
+label {
+  font-size: 20px;
+  font-weight: bold;
+}
+a {
+  font-size: 20px;
+}
+a {
+  font-size: 20px;
+}
+.holder {
+  font-size: 15px;
+  font-weight: bold;
+}
+input {
+  font-size: 15px;
+  font-weight: bold;
+}
+.space {
+  padding-left: 24px;
+}
+select  {
+  border-radius: 100px;
+  font-weight: bold;
+  font-size: large;
+  width: 100px;
+  height: 30px;
+  background-color:white;
+  color:black;
+}
+.test{
+  flex:1 ;
+}
